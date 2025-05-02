@@ -6,7 +6,7 @@
 
 
 ## Table of Contents
-- [Overview](#Exploring the relationship between Los Angeles’s demographics and recent crime rates, the two datasets will provide beneficial insights to better understand how different communities are impacted crime during the years 2024 and 2025.  )
+- [Overview](#Overview)
 - [Folder Structure](#folder-structure)
 - [Data Sources](#https://catalog.data.gov/dataset/crime-data-from-2020-to-present)
 - [Data Sources](#https://www.laalmanac.com/population/po24la.php)
