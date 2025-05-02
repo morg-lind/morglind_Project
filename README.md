@@ -4,9 +4,9 @@
 
 ### Folders:
 - Starting Project:
- - Includes the original csv files of each data set used, both from a scraped source and data set found online. Also includes the notebooks that contain the web scraping process and the integration of the two data sets.
+  - Includes the original csv files of each data set used, both from a scraped source and data set found online. Also includes the notebooks that contain the web scraping process and the integration of the two data sets.
 - Codes:
- - Includes the notebooks that show how I cleaned the data sets and the analysis of my first 2 questions for the project. Could not upload the merged csv file that I worked from due to the storage size.
+  - Includes the notebooks that show how I cleaned the data sets and the analysis of my first 2 questions for the project. Could not upload the merged csv file that I worked from due to the storage size.
 
 | Folder Name    | File | Description                                |
 |------------------|-----------|--------------------------------------------|
