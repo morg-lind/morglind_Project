@@ -10,6 +10,7 @@
 
 | Folder Name    | File | Description                                |
 |------------------|-----------|--------------------------------------------|
+| morglind_Project  | DataDictionary.md  | Most updated version of data dictionary  |
 | Starting Project   | Project Dataset Integration.ipynb   | Unique identifier for each record   |
 | Starting Project   | Project Dataset Integration.ipynb   | Full name of the individual  |
 | Starting Project  | Web Scraping source 2.ipynb   | Age in years    |
@@ -26,10 +27,6 @@
 - **Data Dictionary**: [DataDictionary.md](DataDictionary.md)
 
 
-### Folders:
-- Starting Project:
- - 
-  
 
 ---
 
