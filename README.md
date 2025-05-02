@@ -15,8 +15,8 @@
 | Starting Project  | Web Scraping source 2.ipynb   | The scraping process that contained the demographic information.    |
 | Starting Project  | crime_data_24_25.csv    | CSV file that only contains crimes that occurred in 2024 and 2025  |
 | Starting Project  | total_la_population  | CSV file with all the scraped data and the process |
-| Codes  | Cleaning Crime Dataset.ipynb  | Whether the user is currently active  |
-| Codes  | morglind_Check-in.ipynb | Whether the user is currently active  |
+| Codes  | Cleaning Crime Dataset.ipynb  | Code that was used to clean the crime data  |
+| Codes  | morglind_Check-in.ipynb | The beginning of the analysis portion for my first 2 questions |
 
  
 ## Table of Contents
