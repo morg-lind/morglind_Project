@@ -24,6 +24,7 @@
 | Analysis  | analysis_crime_data.csv | CSV file with the data prepped and ready for analysis |
 | Analysis  | population.csv | CSV file with the data containing the area name and their population proportions |
 | Analysis  | final_crime_data.csv | CSV file with the updated data after all analyses completed |
+| Analysis  | morglind_FinalProject.docx | The final written report with the processes I underwent during the project with a detailed explanation of the analyses' results along with pictures with visualizations. |
 
  
 ## Table of Contents
