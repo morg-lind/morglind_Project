@@ -4,9 +4,11 @@
 
 ### Folders:
 - Starting Project:
-  - Includes the original csv files of each data set used, both from a scraped source and data set found online. Also includes the notebooks that contain the web scraping process and the integration of the two data sets.
-- Codes:
-  - Includes the notebooks that show how I cleaned the data sets and the analysis of my first 2 questions for the project. Could not upload the merged csv file that I worked from due to the storage size.
+  - Includes the original csv files of each data set used, both from a scraped source and data set found online. Also includes the notebooks that contain the web scraping process and the cleaning crime data process.
+- Integration:
+  - Includes the notebook with the integration of the datasets along with the final csv file.
+- Analysis:
+  - Includes the notebook with all answered analysis questions, prepped analysis CSV file, final CSV file, and another CSV filtered for are name and demographic groups.
 
 | Folder Name    | File | Description                                |
 |------------------|-----------|--------------------------------------------|
@@ -15,8 +17,13 @@
 | Starting Project  | Web Scraping source 2.ipynb   | The scraping process that contained the demographic information.    |
 | Starting Project  | crime_data_24_25.csv    | CSV file that only contains crimes that occurred in 2024 and 2025  |
 | Starting Project  | total_la_population  | CSV file with all the scraped data and the process |
-| Codes  | Project Dataset Integration.ipynb   | Contains code that merged the two data sources to create one dataframe  |
-| Codes  | morglind_Check-in.ipynb | The beginning of the analysis portion for my first 2 questions |
+| Starting Project  | cleaned_crime_data_sample.csv | CSV file with cleaned crime data with top 100 rows |
+| Integration  | Project Dataset Integration.ipynb   | Contains code that merged the two data sources to create one dataframe  |
+| Integration | crime_population_merged_sample  | CSV file with the merged datasets with top 100 rows |
+| Analysis  | morglind_analysis.ipynb | Contains code with all analysis questions, tests, models, and visualizations |
+| Analysis  | analysis_crime_data.csv | CSV file with the data prepped and ready for analysis |
+| Analysis  | population.csv | CSV file with the data containing the area name and their population proportions |
+| Analysis  | final_crime_data.csv | CSV file with the updated data after all analyses completed |
 
  
 ## Table of Contents
